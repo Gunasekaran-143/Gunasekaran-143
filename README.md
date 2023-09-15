@@ -1,6 +1,6 @@
 # GUNASEKARAN V
 
-![Profile Picture](https://github.com/your-username.png)
+
 
 Hello! I'm GUNASEKARAN V, and this is my GitHub profile. I'm passionate about leveraging technology to make a positive impact on society. My goal is to lead innovative projects that utilize data analytics and machine learning to address pressing humanitarian issues.
 
