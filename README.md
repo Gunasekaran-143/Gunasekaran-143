@@ -1,6 +1,6 @@
 # GUNASEKARAN V
 
-
+# About me:
 Hello! I'm GUNASEKARAN V and this is my GitHub profile. I'm an enthusiast in the world of technology, with a diverse skill set that includes:
 
 - Python Programming
@@ -13,6 +13,8 @@ Hello! I'm GUNASEKARAN V and this is my GitHub profile. I'm an enthusiast in the
 
 I'm passionate about using these skills to drive innovation and solve real-world challenges. Let's connect and collaborate on exciting projects that push the boundaries of what technology can achieve!
 
+
+# GitHub Stats:
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gunasekaran-143&show_icons=true&theme=dark)
