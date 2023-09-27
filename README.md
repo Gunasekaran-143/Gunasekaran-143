@@ -38,11 +38,11 @@ I'm passionate about using these skills to drive innovation and solve real-world
 
 ## Certifications
 
-- 📜 "Responsive Website Basics" - Coursera
-- 📜 "Big Data Analytics with Hadoop and Apache Spark" - Linkedin Learning
-- 📜 "Python 2023 For Beginners" - Udemy
-- 📜 "Introduction to Data Science" - Cognitive Class
-- 📜 "Postman Essential Training" - LinkedIn Learning
+- 📜 "Responsive Website Basics" - Coursera.
+- 📜 "Big Data Analytics with Hadoop and Apache Spark" - Linkedin Learning.
+- 📜 "Python 2023 For Beginners" - Udemy certified.
+- 📜  Attended a 21 Days webinar on Deep Learning. 
+- 📜 "Postman Essential Training" - LinkedIn Learning.
 
 ## Projects
 
@@ -78,9 +78,5 @@ Feel free to connect with me and explore my projects and certifications. Let's w
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gunasekaran-143&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunasekaran-143&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
 
-[![](https://visitcount.itsvg.in/api?id=Gunasekaran-143&icon=9&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
 
