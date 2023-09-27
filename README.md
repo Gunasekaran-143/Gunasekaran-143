@@ -17,10 +17,6 @@ I'm passionate about using these skills to drive innovation and solve real-world
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gunasekaran-143&show_icons=true&theme=dark)
 
-
-!-- GitHub Longest Streak -->
-![GitHub Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gunasekaran-143&theme=shades-of-purple&hide_border=false&fire=DD2727)
-
 <!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Gunasekaran-143)
 
