@@ -14,7 +14,7 @@ Hello! I'm GUNASEKARAN V and this is my GitHub profile. I'm an enthusiast in the
 I'm passionate about using these skills to drive innovation and solve real-world challenges. Let's connect and collaborate on exciting projects that push the boundaries of what technology can achieve!
 
 
-# GitHub Stats:
+# Github stats:
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gunasekaran-143&show_icons=true&theme=dark)
@@ -73,9 +73,9 @@ I'm passionate about using these skills to drive innovation and solve real-world
 
 Feel free to connect with me and explore my projects and certifications. Let's work together to make a positive impact through technology!
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gunasekaran-143&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gunasekaran-143&theme=shades-of-purple&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunasekaran-143&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
