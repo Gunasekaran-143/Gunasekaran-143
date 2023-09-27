@@ -72,8 +72,6 @@ I'm passionate about using these skills to drive innovation and solve real-world
 ## Contact Me
 
 -  Email: gunasekaran972001@gmail.com
--  Address: 11, Raja Street, Edayansayathu, Vellore
--  Phone: 9360843877
 -  LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gunasekaran-v3748b720a)
 
 Feel free to connect with me and explore my projects and certifications. Let's work together to make a positive impact through technology!
