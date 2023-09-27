@@ -19,12 +19,15 @@ I'm passionate about using these skills to drive innovation and solve real-world
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gunasekaran-143&show_icons=true&theme=dark)
 
-<!-- Profile Views -->
+
 <p align="center">
+<!-- Profile Views -->
 ![ProfileViews](https://komarev.com/ghpvc/?username=Gunasekaran-143)
 </p>
 
-
+<div align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Gunasekaran-143)
+</div>
 
 ## Soft Skills
 
