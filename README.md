@@ -66,4 +66,13 @@ Hello! I'm GUNASEKARAN V, and this is my GitHub profile. I'm passionate about le
 - 📞 Phone: 9360843877
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gunasekaran-v3748b720a)
 
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gunasekaran-143&show_icons=true&theme=dark)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gunasekaran-143&theme=dark)
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=Gunasekaran-143)
+
 Feel free to connect with me and explore my projects and certifications. Let's work together to make a positive impact through technology!
