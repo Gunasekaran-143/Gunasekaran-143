@@ -25,7 +25,7 @@ I'm passionate about using these skills to drive innovation and solve real-world
 
 
 
- ![Profile Views](https://komarev.com/ghpvc/?username=Gunasekaran-143)
+<p align = "center" ![Profile Views](https://komarev.com/ghpvc/?username=Gunasekaran-143)>
 
 
 ## Soft Skills
