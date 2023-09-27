@@ -21,7 +21,7 @@ I'm passionate about using these skills to drive innovation and solve real-world
 
 <!-- Profile Views -->
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Gunasekaran-143)
+![ProfileViews](https://komarev.com/ghpvc/?username=Gunasekaran-143)
 </p>
 
 
