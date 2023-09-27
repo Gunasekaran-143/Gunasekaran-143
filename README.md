@@ -54,8 +54,8 @@ I'm passionate about using these skills to drive innovation and solve real-world
 - Deployed an Online Book Store (CRUD) - Using Html,Css,Java script and my sql
 - Observation of Roadway Lane Detection
  and Drowsiness Detection - Using python and Machine learning.
-- Comparative Study of Disease Prediction using Data Mining Techniques
-- Automation Tool for Health Care Alerting System - An App using Android studio
+- Covid19 Tracking and alerting application - Using Java and Android Studio.
+- Automation Tool for Health Care Alerting System - An App using Java and Android studio.
 
 ## Hobbies
 
