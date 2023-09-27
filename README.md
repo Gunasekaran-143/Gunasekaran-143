@@ -1,33 +1,28 @@
 # GUNASEKARAN V
 
 
+Hello! I'm GUNASEKARAN V and this is my GitHub profile. I'm an enthusiast in the world of technology, with a diverse skill set that includes:
 
-Hello! I'm GUNASEKARAN V, and this is my GitHub profile. I'm passionate about leveraging technology to make a positive impact on society. My goal is to lead innovative projects that utilize data analytics and machine learning to address pressing humanitarian issues.
+- 🐍 Python Programming
+- ☕ Java Programming
+- 🗃️ Database Management - SQL
+- 📊 Big Data Analysis
+- 💻 Web Development with HTML, CSS, and JavaScript
+- Git and GitHub Version Control
+- Excel Mastery
 
-## About Me
+I'm passionate about using these skills to drive innovation and solve real-world challenges. Let's connect and collaborate on exciting projects that push the boundaries of what technology can achieve!
 
-- 🌐 Utilizing my MCA background to bridge the gap between technology and social impact.
-- 🔍 Aspiring to lead projects that use data-driven insights for positive change.
-- 📚 Currently studying MCA at VIT (2022-2024).
 
-## Hard Skills
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gunasekaran-143&show_icons=true&theme=dark)
 
-- 🐍 Python
-- ☕ Java
-- 🗃️ DBMS - SQL
-- 📊 Big Data
-- 💻 HTML, CSS, JavaScript
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gunasekaran-143&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gunasekaran-143&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunasekaran-143&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+!-- GitHub Longest Streak -->
+![GitHub Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gunasekaran-143&theme=shades-of-purple&hide_border=false&fire=DD2727)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=Gunasekaran-143&icon=9&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=Gunasekaran-143)
 
 
 ## Soft Skills
@@ -78,13 +73,16 @@ Hello! I'm GUNASEKARAN V, and this is my GitHub profile. I'm passionate about le
 -  Phone: 9360843877
 -  LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gunasekaran-v3748b720a)
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gunasekaran-143&show_icons=true&theme=dark)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gunasekaran-143&theme=dark)
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=Gunasekaran-143)
-
 Feel free to connect with me and explore my projects and certifications. Let's work together to make a positive impact through technology!
+
+#  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gunasekaran-143&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gunasekaran-143&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunasekaran-143&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Gunasekaran-143&icon=9&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+
