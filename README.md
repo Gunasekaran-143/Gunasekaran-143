@@ -5,11 +5,9 @@ My portfolio Website - https://gunasekaran.netlify.app/
 # About me:
 Hello! I'm GUNASEKARAN V and this is my GitHub profile. I'm an enthusiast in the world of technology, with a diverse skill set that includes:
 
-- Python Programming
-- Java Programming
+- Python Programming and Machine Learning 
 - Web Development with HTML, CSS, and        JavaScript
 - Database Management - SQL
-- Big Data Analysis
 - Git and GitHub Version Control
 - Excel Mastery
 
