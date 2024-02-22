@@ -1,4 +1,4 @@
-# GUNASEKARAN V
+# Gunasekaran V
 
 My portfolio Website - https://gunasekaran.netlify.app/
 
